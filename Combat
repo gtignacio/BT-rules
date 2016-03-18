@@ -1,0 +1,17 @@
+MELEE COMBAT
+When two characters are exchanging blows with weapons that have a maximum range of 10 feet and are not being thrown, they are engaged in melee combat.
+
+Attacking:
+On his turn, a character can use a weapon he currently wields to attack a target within his weapon's range. He is thus known as the ATTACKER, his target of the moment is the DEFENDER.
+
+The Attacker rolls a number of dice equal to his skill with the weapon he is wielding. The Defender (assuming he is free and unhindered) then rolls a number of dice equal to his weapon skill + his Shield Rating, if any. The winner of the exchange is the one who rolls the highest number from 4-6, with ties going in favor of the defender.
+
+Example:
+Torkus the sellsword and his arch-enemy, Count Millaine, are engaged in a duel to the death. Torkus is armed with his trusty longsword and a simple wooden shield, while Count Millaine wields a fearsome spiked flail. On Torkus' skill with his sword is at 4, so his player rolls 4 dice, resulting in 1, 5, 6, 2. 
+Count Millaine's player (the GM) looks-up his skill with flails, and notes that it is at 2. Because he is not currently wielding a shield, then he rolls just 2 dice, resulting in a 4 and 5. Because Torkus' player rolled the highest number (the 6), Torkus succeeds in penetrating Count Millaine's defenses.
+
+Dealing Damage:
+When an attack is successful, the GM will call for the attacker to deal damage. This is accomplished by rolling the number of dice equal to the damage rating of the weapon that did the damage. If the target is wearing armor, the target rolls his armor rating, and subtracts the result from the result of the attacker's damage roll. The result, if greater than zero, is the number of points to deduct from the target's HP.
+
+Defending:
+When it is your turn to be attacked, you become the DEFENDER  while your opponent is now the ATTACKER. Your opponent's melee attack roll will be opposed by your skill with your currently-wielded weapon + your shield's defense rating, if any (Obviously, if you don't have a shield, you better be skilled with your weapon). Similar to attacking, the winner of the exchange is the one who rolls the highest number.
