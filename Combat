@@ -34,5 +34,9 @@ Defending:
 When it is your turn to be attacked, you become the DEFENDER  while your opponent is now the ATTACKER. Your opponent's melee attack roll will be opposed by your skill with your currently-wielded weapon + your shield's defense rating, if any (Obviously, if you don't have a shield, you better be skilled with your weapon). Similar to attacking, the winner of the exchange is the one who rolls the highest number.
 
 RANGED COMBAT
-Ranged combat occurs when characters are throwing, firing, or otherwise launching projectiles at one another across distances that are too-far for unthrown melee weapons to reach. In BlackThorne, ranged combat is particularly deadly, because incoming fire cannot be defended against without knowing ahead of time that you will be attacked and from what direction, and then only if you have a shield. The best defense against mundane ranged attacks is a good set of armor.
+Ranged combat occurs when characters are throwing, firing, or otherwise launching projectiles at one another across distances that are too-far for unthrown melee weapons to reach.
 
+Shooting:
+Firing an arrow, throwing a dagger, or launching a stone from a sling are all accomplished by rolling dice equal to your skill with the weapon + DEX. Unless your opponent is aware of you and your attack, this is a straight roll that follows the Degrees of Success/Failure Ladder.
+
+Should your opponent be aware of your attack, he can oppose your attack roll with dice equal to his Dodge ability + Shield rating, if any.
