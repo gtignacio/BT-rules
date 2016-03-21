@@ -1,42 +1,29 @@
-MELEE COMBAT
-When two characters are exchanging blows with weapons that have a maximum range of 10 feet and are not being thrown, they are engaged in melee combat.
+COMBAT
+Fighting monsters and other characters is a big part of the life of an adventurer in Blackthorne. While we want to keep the game flowing as quickly and smoothly as possible, we missed the tactical mindset towards Combat found in games like D&D and Pathfinder. Thus, during combat, the rules for resolving actions are a little different.
 
-Attacking:
-On his turn, a character can attempt to do something to a target within range. What that something is is largely up to the player's imagination, albeit the most common action is to attempt to apply the weapon he is currently wielding to the target's most vulnerable body part. Regardless, he is thus known as the ATTACKER, his target of the moment is the DEFENDER.
+ATTACKING
+You can attack your target only if (1) It is your character's turn, and (2) Your target is within the range of the weapon you are currently wielding. 
 
-The Attacker rolls a number of dice equal to his skill with the weapon he is wielding. The Defender (assuming he is free and unhindered) then rolls a number of dice equal to his weapon skill + his Shield Rating, if any. Equal numbers cancel one another out. The winner of the exchange is the one who rolls the highest number from 4-6, with ties going in favor of the defender.
+The only exception to this rule is when an enemy's move (during their turn of course) triggers a reflex attack from you. In that case, you may attack that particular enemy out of your turn, but only if they are within weapon range. Of course, when the tables are turned, enemies may then attack you.
 
-Example:
-Torkus the sellsword and his arch-enemy, Count Millaine, are engaged in a duel to the death. Torkus is armed with his trusty longsword and a simple wooden shield, while Count Millaine wields a fearsome spiked flail. On Torkus' skill with his sword is at 4, so his player rolls 4 dice, resulting in 1, 5, 6, 2. 
-
-Count Millaine's player (the GM) looks-up his skill with flails, and notes that it is at 2. Because he is not currently wielding a shield, then he rolls just 2 dice, resulting in a 4 and 5. Because Torkus' player rolled the highest number (the 6), Torkus succeeds in penetrating Count Millaine's defenses.
+There are 2 types of attacks: Melee and Ranged With the exception of Magical attacks, all attacks are made by rolling a number of dice equal to your skill with the weapon you are using + DEX. Depending on the awareness of your target, your attack can be opposed by a DEFEND roll by your target. Whoever rolls the highest on a single die wins the exchange, with equal numbers cancelling each other out, and with ties being ruled in favor of the target. If your target is unaware of your impending attack, however (as is often the case when you wish to shoot someone from a long distance), you only need to roll a 4 or better on any one die.
 
 Attacking without a weapon:
-Attempting to harm your target without a weapon falls into two broad categories: brawling (or scrapping, or fisticuffs, etc.), and grappling. Brawling is when you're trying to bludgeon your target into submission with your bare fists, feet, elbows, teeth, and so on, in which case you roll a number of dice equal to your Unarmed Combat skill rating. This is opposed by your target's weapon skill rating (if he is currently using one) + his shield rating (again, if he has one). Otherwise, it becomes a straight-up Unarmed Combat versus roll.
+Attempting to harm your target without a weapon falls into two broad categories: brawling (or scrapping, or fisticuffs, etc.), and grappling. Brawling is when you're trying to bludgeon your target into submission with your bare fists, feet, elbows, teeth, and so on, in which case you roll a number of dice equal to your Unarmed Combat skill + STR. This is opposed by your target's weapon skill rating (if he is currently using one) + his shield rating (again, if he has one). Otherwise, it becomes a straight-up Unarmed Combat versus roll.
 
 Grappling covers those actions wherein you are trying to tackle your target to the ground or perhaps apply a submission hold or a combination of both. The idea is you are trying to restrain your target's actions in some way or other. Roll a number of dice equal to your Grappling skill + either STR or DEX (your choice). Your opponent opposes this roll with the same.
+
+Critical Successes & Failures
+Critical successes and failures can only occur on your turn. Critical hits occur only when the conditions for the rolled number of dice are met AND are unopposed by the Defender. Critical failures occur as normal--i.e., only when all the dice rolled result in 1.
 
 Dealing Damage:
 When an attack is successful, the GM will call for the attacker to deal damage. This is accomplished by rolling the number of dice equal to the damage rating of the weapon that did the damage. If the target is wearing armor, the target rolls his armor rating, and subtracts the result from the result of the attacker's damage roll. The result, if greater than zero, is the number of points to deduct from the target's HP.
 
 Successful crits by the attacker allows him to roll twice for damage, dealing damage equal to the sum of the two rolls.
 
-Criticals:
-Only the ATTACKER can experience critical hits or failures. Critical hits occur only when the conditions for the rolled number of dice are met AND are unopposed by the Defender. Critical failures occur as normal--i.e., only when all the dice rolled result in 1.
+DEFENDING
+When it is your turn to be attacked, it is usually possible to attempt to defend yourself. When your enemy makes an opposable melee attack roll against you, you may roll a number of dice equal to your skill with the weapon you currently wield + DEX + your shield rating, if you are wielding a shield as well.
 
-Example:
-Torkus and Count Millaine exchange blows again. Torkus' player rolls a 3, 4, 6, 6. This would fulfill the crit conditions for 4 dice. Count Millaine attempts to defend, and rolls a 3 and a 5. Because Torkus' two 6s are unopposed, Torkus crits and therefore rolls twice for damage.
+When you are the target of a ranged attack, however, you can only attempt to defend yourself if and only if you are aware you are about to be attacked. This means that the target of a ranged attack CANNOT defend himself in the event of a surprise attack.
 
-Example:
-The duel between Torkus and Count Millaine drags on. Torkus' player now rolls a 2, 3, 6, 6. However, Count Millaine rolls a 6 and 4 in his defense. His 6 and one of Torkus' 6s cancel one another out, thus depriving Torkus of a crit on 4 dice. However, Torkus still has an unopposed 6, thus winning the exchange. Torkus rolls ordinary damage.
-
-Defending:
-When it is your turn to be attacked, you become the DEFENDER  while your opponent is now the ATTACKER. Your opponent's melee attack roll will be opposed by your skill with your currently-wielded weapon + your shield's defense rating, if any (Obviously, if you don't have a shield, you better be skilled with your weapon). Similar to attacking, the winner of the exchange is the one who rolls the highest number.
-
-RANGED COMBAT
-Ranged combat occurs when characters are throwing, firing, or otherwise launching projectiles at one another across distances that are too-far for unthrown melee weapons to reach.
-
-Shooting:
-Firing an arrow, throwing a dagger, or launching a stone from a sling are all accomplished by rolling dice equal to your skill with the weapon + DEX. Unless your opponent is aware of you and your attack, this is a straight roll that follows the Degrees of Success/Failure Ladder.
-
-Should your opponent be aware of your attack, he can oppose your attack roll with dice equal to his Dodge ability + Shield rating, if any.
+Once you are aware you are being shot at, you may roll a number of dice equal to your DEX + your shield's rating (if you have a shield to begin with). Whoever rolls the highest number on a single die wins the exchange.
